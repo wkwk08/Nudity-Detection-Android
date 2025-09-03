@@ -1,3 +1,10 @@
+/**
+ * Nudity-Detection-Android
+ * Original implementation by: Rahat Yeasin Emon
+ * GitHub: https://github.com/rahatyeasinemon/Nudity-Detection-Android
+ * Research Paper: https://arxiv.org/ftp/arxiv/papers/2006/2006.01780.pdf
+ */
+
 package com.example.nuditydetectionapp
 
 import android.os.Bundle

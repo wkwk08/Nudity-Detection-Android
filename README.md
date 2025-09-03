@@ -56,4 +56,5 @@ adb shell am start -n com.example.nuditydetectionapp/.MainActivity
 - Detection stats will be printed to the log (face region vs. full image)
 
 ## Attribution
-This project is adapted from the original implementation by Rahat Yeasin Emon GitHub: rahatyeasinemon/Nudity-Detection-Android
+This project is adapted from the original implementation by **Rahat Yeasin Emon**  
+GitHub: [rahatyeasinemon/Nudity-Detection-Android](https://github.com/rahatyeasinemon/Nudity-Detection-Android)
